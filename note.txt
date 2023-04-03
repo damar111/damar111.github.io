@@ -1,0 +1,62 @@
+tree /f struktur folder
+
+README
+# Project Tiket Wisata Kota BOGOR
+
+## Struktur hirarki project
+
+<pre>
+C:.
+│ .htaccess
+│ 404.php
+│ action_submit.php
+│ daftar_harga.php
+│ detail.php
+│ footer.php
+│ header.php
+│ home.php
+│ index.php
+│ pemesanan.php
+│ README.md
+│
+├───api
+│ read_wisata.php
+│
+├───config
+│ connect.php
+│
+├───css
+│ style.css
+│
+├───image
+│ google.png
+│ janggel.jpg
+│ keboenraya.jpg
+│ monyet.jpg
+│ tamansafari.jpeg
+│ tgok.png
+│
+└───js
+script.js
+</pre>
+
+# Tools
+
+- Visual Studio Code
+- Xampp
+
+# Language
+
+- PHP
+- MySql
+
+# Output
+
+- Home Page
+  <img src="image/home.png"/>
+
+- Daftar Harga
+  <img src="image/daftar.png"/>
+
+- Pemesanan
+  <img src="image/pemesanan.png"/>
