@@ -66,3 +66,6 @@ switch ($request) {
 
         break;
 }
+
+header("Location: $me");
+die();
